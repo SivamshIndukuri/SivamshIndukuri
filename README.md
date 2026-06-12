@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 ## Open Source Contributions
