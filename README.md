@@ -24,6 +24,3 @@
 - **Strategus** – [Extended TreatmentPatterns to support multiple analyses per run](https://github.com/OHDSI/Strategus/pull/273)
 - **OhdsiShinyModules** – [Designed and prototyped a TreatmentPatterns dashboard](https://github.com/OHDSI/OhdsiShinyModules/pull/408)
 - **DbDiagnostics** – [Optimized SQL query execution and performance](https://github.com/OHDSI/DbDiagnostics/pull/29)
-
-## Featured Project
-- [HealthHack](https://github.com/SivamshIndukuri/HealthHack) – Designed a proof-of-concept platform to connect postpartum patients with local healthcare resources with a real-time referral dashboard.
