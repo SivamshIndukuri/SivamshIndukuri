@@ -1,11 +1,3 @@
-<h1 align="center">Hi, I'm Siva 👋</h1>
-
-<p align="center">
-  Software Engineering • Data Engineering • Machine Learning
-  <br>
-  Rutgers University '26
-</p>
-
 ## About Me
 
 - 🎓 B.S. Computer Science & Data Science, Rutgers University (Dec 2026)
