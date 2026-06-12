@@ -3,7 +3,7 @@
 - 🎓 B.S. Computer Science & Data Science, Rutgers University (Dec 2026)
 - 🏥 Data Engineering Intern at Johnson & Johnson
 - 🚒 Volunteer Firefighter
-- 🌱 Interested in distributed systems, healthcare analytics, and machine learning
+
 
 ## Tech Stack
 
