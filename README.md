@@ -4,7 +4,6 @@
 - 🏥 Data Engineering Intern at Johnson & Johnson
 - 🚒 Volunteer Firefighter
 
-![](https://komarev.com/ghpvc/?username=SivamshIndukuri)
 
 ## Tech Stack
 
