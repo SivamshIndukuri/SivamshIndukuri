@@ -1,3 +1,9 @@
+
+## Open Source Contributions
+- **Strategus** – [Extended TreatmentPatterns to support multiple analyses per run](https://github.com/OHDSI/Strategus/pull/273)
+- **OhdsiShinyModules** – [Designed and prototyped a TreatmentPatterns dashboard](https://github.com/OHDSI/OhdsiShinyModules/pull/408)
+- **DbDiagnostics** – [Optimized SQL query execution and performance](https://github.com/OHDSI/DbDiagnostics/pull/29)
+- 
 ## About Me
 
 - 🎓 B.S. Computer Science & Data Science, Rutgers University (Dec 2026)
@@ -19,7 +25,3 @@
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-## Open Source Contributions
-- **Strategus** – [Extended TreatmentPatterns to support multiple analyses per run](https://github.com/OHDSI/Strategus/pull/273)
-- **OhdsiShinyModules** – [Designed and prototyped a TreatmentPatterns dashboard](https://github.com/OHDSI/OhdsiShinyModules/pull/408)
-- **DbDiagnostics** – [Optimized SQL query execution and performance](https://github.com/OHDSI/DbDiagnostics/pull/29)
